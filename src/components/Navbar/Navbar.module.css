@@ -1,0 +1,11 @@
+.Navbar {
+  display: flex;
+  width: 100%;
+  padding: 20px 40px;
+  background-color: #202020;
+}
+
+.nav-item {
+  margin-left: 20px;
+  color: white;
+}
